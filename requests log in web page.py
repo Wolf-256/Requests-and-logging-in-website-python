@@ -2,8 +2,9 @@
 import requests
 #replace url with target url
 url = 'urlOfTarget'
-#user log in data
+#user log-in data
 data = {
+#replace user log-in username and password respectively 
 'User Id': 'username',
 'Password': 'Password',
 }
